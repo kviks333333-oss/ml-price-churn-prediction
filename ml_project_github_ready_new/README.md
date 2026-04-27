@@ -65,6 +65,4 @@ pip install -r requirements.txt
 4. Run cells step by step.
 5. Check final predictions in `outputs/final_submission_h4.csv`.
 
-## Notes
 
-Large intermediate datasets are not included in the GitHub-ready archive because GitHub browser upload has file size limitations and public repositories should not contain unnecessary large files. The excluded large file can be stored locally or uploaded through Git LFS if needed.
